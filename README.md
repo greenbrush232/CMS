@@ -1,2 +1,2 @@
 # CMS
-Computer Mathematical Systems/UNN/Task
+Computer Mathematical Systems/ UNN/ Task/ Separable least squares
